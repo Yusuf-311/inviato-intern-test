@@ -1,7 +1,7 @@
 import React from "react";
-import background from "../assets/images/welcome.jpeg";
+import background from "./assets/images/welcome.jpeg";
 
-import { ReactComponent as Wave } from "../assets/images/wave.svg";
+import { ReactComponent as Wave } from "./assets/images/wave.svg";
 
 export default function Welcome2() {
   return (

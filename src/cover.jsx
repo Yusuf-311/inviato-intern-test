@@ -1,5 +1,5 @@
 import React from "react";
-import background from "../assets/images/cover.jpeg";
+import background from "./assets/images/cover.jpeg";
 
 export default function Cover() {
   return (

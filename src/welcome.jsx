@@ -1,8 +1,8 @@
 import React from "react";
-import background from "../assets/images/cover.jpeg";
+import background from "./assets/images/cover.jpeg";
 import { TbMailOpenedFilled } from "react-icons/tb";
 import { AiFillHeart } from "react-icons/ai";
-import { ReactComponent as Wave } from "../assets/images/wave.svg";
+import { ReactComponent as Wave } from "./assets/images/wave.svg";
 
 export default function Welcome({ onClick }) {
   return (
